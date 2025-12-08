@@ -17,8 +17,8 @@ Please note that this project is released with a [Contributor Code of Conduct][c
 
 ## Getting started
 
-- Found a bug? [Report it here ➡️](https://github.com/IBM/action-runner-image-pz/issues)
-- Have a feature idea? [Submit it here ➡️](https://github.com/IBM/action-runner-image-pz/issues)
+- Found a bug? [Report it here](https://github.com/IBM/action-runner-image-pz/issues/new?template=bug_report.md)
+- Have a feature idea? [Submit it here](https://github.com/IBM/action-runner-image-pz/issues/new?template=feature-request.md)
 
 ## Submitting a pull request
 
