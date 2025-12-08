@@ -1,4 +1,4 @@
-# ***GitHub Action Runner Image for IBM Power (ppc64le) and IBM Z (s390x) ***
+# GitHub Action Runner Image for IBM Power (ppc64le) and IBM Z (s390x)
 
 Github Actions LXD Image Builder
 
@@ -130,7 +130,7 @@ If the script encounters an unsupported architecture, it will provide these opti
 
 ---
 
-# **Archived repo
+# Archived repo
 
 This repo was previously hosted here: https://github.com/ppc64le/gaplib
 
